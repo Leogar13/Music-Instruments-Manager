@@ -1,0 +1,10 @@
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\bin\Debug\MusicManagerApp.exe.config
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\bin\Debug\MusicManagerApp.exe
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\bin\Debug\MusicManagerApp.pdb
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.csprojAssemblyReference.cache
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.MainForm.resources
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.Properties.Resources.resources
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.csproj.GenerateResource.cache
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.csproj.CoreCompileInputs.cache
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.exe
+D:\Project\MusicManager\MusicManagerApp\MusicManagerApp\obj\Debug\MusicManagerApp.pdb
